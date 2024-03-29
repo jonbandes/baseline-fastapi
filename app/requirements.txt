@@ -1,0 +1,11 @@
+
+fastapi==0.110.0
+uvicorn==0.29.0
+sqlalchemy==2.0.28
+psycopg2-binary
+sqlalchemy_utils
+redis==5.0.3
+fastapi-auth-middleware
+python-dotenv
+requests==2.31.0
+fastapi-redis-cache==0.2.5
